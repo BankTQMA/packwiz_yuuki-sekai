@@ -1,0 +1,16 @@
+name = "Yuuki Sekai"
+author = "Therdsak Chen"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "22ca729a834938f4c7b004259bfbd9b90543eefedc6355d9a471db2b9abacceb"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21.1"]
