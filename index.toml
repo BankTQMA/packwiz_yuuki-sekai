@@ -46,6 +46,11 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "d7c13dfec5f62eef0906adf8814e989fd914f5b9c2f4b9c3064b6fa3a4c5bd78"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
 metafile = true
