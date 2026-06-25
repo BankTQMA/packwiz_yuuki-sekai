@@ -1,12 +1,12 @@
 name = "Yuuki Sekai"
 author = "Therdsak Chen"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "114d80749c58b3c340418f5aabedaf32f4667500a5be745996076f21b56b04e9"
+hash = "947301237379077fe3ea5516a7b604256d4a4cb6f427e2a6aede32673b39f7e2"
 
 [versions]
 fabric = "0.19.3"
