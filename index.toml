@@ -96,6 +96,11 @@ hash = "51c739b9b9b47e5414d1a8cdeafede3befef2c254b42de9320ceb5a50762593e"
 metafile = true
 
 [[files]]
+file = "mods/powah-refabric.pw.toml"
+hash = "bc4e69ae629bc37b8867265468f6f35392cf6b99e8c705ed2b8a020b02ebd379"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-jei-integration.pw.toml"
 hash = "dc9ddff01f1ba73066b63ba6d5e35ee83a969ce00ef2c4e0806fff9b74b3b36d"
 metafile = true
