@@ -6,6 +6,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/automatic-potato.pw.toml"
+hash = "be64079e6b07ea060e3f9b375d5e888cf941880619cdd7eba922f68419922d8e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "11cad75407ec196d35462b8bad0d7aeff6efe4810a91e756db6c0d7c4050af90"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "cb96b7b44cc21b65ea04f6a7339a087d0cabb324faf106db789dc8b23f983796"
+metafile = true
+
+[[files]]
+file = "mods/large-fluid-tank.pw.toml"
+hash = "2ac9a5544929e92cc94513072a343ceace5aa1b697556858835e64155b9f01cd"
 metafile = true
 
 [[files]]
@@ -118,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "452a0cef80ef10e0f8af550b34513e857a5c769842808ec2213aa554b8c59713"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "94348eb859cbe4152cbc2f665da89414667d566ca1ed80fff45acea942bb8e69"
 metafile = true
 
 [[files]]
